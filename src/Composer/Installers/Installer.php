@@ -15,6 +15,7 @@ class Installer extends LibraryInstaller
     private $supportedTypes = array(
         'agl'          => 'AglInstaller',
         'annotatecms'  => 'AnnotateCmsInstaller',
+        'ansible'      => 'AnsibleInstaller',
         'cakephp'      => 'CakePHPInstaller',
         'codeigniter'  => 'CodeIgniterInstaller',
         'concrete5'    => 'Concrete5Installer',
