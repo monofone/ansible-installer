@@ -5,7 +5,7 @@
     "description": "A multi-framework Composer library installer",
     "keywords": [
         "installer",
-        "ansible",
+        "ansible"
     ],
     "homepage": "http://github.com/monofone/installers/",
     "authors": [
