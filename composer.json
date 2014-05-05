@@ -7,7 +7,7 @@
         "installer",
         "ansible"
     ],
-    "homepage": "http://github.com/monofone/installers/",
+    "homepage": "http://github.com/monofone/ansible-installer/",
     "authors": [
         {
             "name": "Kyle Robinson Young",
